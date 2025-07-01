@@ -1,9 +1,10 @@
 ## Hi there 👋 I am Anuska Maharjan
 
-- 🔭 I’m currently working on **improving my skills through hands-on coding projects and exploring new technologies.**
-- 🌱 I’m currently learning **web development, and AI concepts to build smarter applications.**
-- 💬 Ask me about **programming, AI tools, or how to get started with building web or AI projects**.
-- ⚡ Fun fact: **I love diving into new tech trends and experimenting with ways to automate everyday tasks.**
+🔭 I’m currently working on **improving my skills through hands-on coding projects and exploring new technologies.**
+🌱 I’m currently learning **web development, and AI concepts to build smarter applications.**
+💬 Ask me about **programming, AI tools, or how to get started with building web or AI projects**.
+⚡ Fun fact: **I love diving into new tech trends and experimenting with ways to automate everyday tasks.**
+
 
 <!--
 **anuskamhzn/anuskamhzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
