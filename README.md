@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Anuska Maharjan
 
 - 🔭 I’m currently working on **improving my skills through hands-on coding projects and exploring new technologies.**
 - 🌱 I’m currently learning **web development, and AI concepts to build smarter applications.**
